@@ -2,39 +2,6 @@
 >https://github.com/Data-Camp/WeApp_Demos
 ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-websites?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-websites?color=G&label=Stars)
 
->   🎈 持续更新中 ~
-
-我的其他项目，欢迎 **Star** 收藏：
-
-| CS-Docs                                                      | amazing-softwares                                            | amazing-books                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) |
-
-# 🚩 简介
-
--   项目说明：推荐好玩好用的网站，此项目主要用于收集一些常用网站，长期持续更新。
--   项目类型：资料收集
--   项目地址
-
-| 平台       | 地址                                          |
-| ---------- | --------------------------------------------- |
-| **Github** | https://github.com/cunyu1943/amazing-websites |
-| **Gitee**  | https://gitee.com/cunyu1943/amazing-websites  |
-
-欢迎大家推荐更多各种好玩好用的网站，如果有失效的，一定要及时提交 Issues 哦！如果对你有用，可以点击右上角 **Star** 💖 表示支持一下哦 🙏
-
-此外我还建立了交流群，方便大家一起交流，在这里你可以聊编程、聊生活、聊工作……，还有免费编程书籍获取，都在群里，赶紧来加入吧！
-
-**加群方式**：关注公众号 **村雨遥**，回复 **加群** 即可。
-
-<div align="center"><img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" style="zoom:50%;" /></div>
-
-温馨提示：
-
->   对于知道要查找的网站类别后，善用 Ctrl + F 快捷方式
-
-
-
 # 🚋 网站类别
 
 ## 📁 云存储
@@ -294,16 +261,3 @@
 -   [华为开源镜像站](https://mirrors.huaweicloud.com/)：华为开源镜像站
 -   [中科大开源镜像站](http://mirrors.ustc.edu.cn/)：中科大开源镜像站
 
-
-
-# 💰 支持赞助
-
-熬夜不易，觉得有所帮助的朋友可以赏杯咖啡，哈哈，让我更有动力更新下去！
-
-| 微信                                                         | 支付宝                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://s1.ax1x.com/2020/07/08/UZflJH.png" style="zoom:50%;" ></img> | <img src="https://s1.ax1x.com/2020/07/08/UZf1Wd.png" style="zoom:50%;" ></img> |
-
-# :copyright: License
-
-本仓库遵循 CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享） 协议，转载请注明出处，不得用于商业目的。
