@@ -1,7 +1,8 @@
 ### 各种微信案例
 >https://github.com/Data-Camp/WeApp_Demos
 ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-websites?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-websites?color=G&label=Stars)
-
+### 在线简历
+https://resume.mdedit.online/#
 # 🚋 网站类别
 
 ## 📁 云存储
